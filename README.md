@@ -1,4 +1,4 @@
-# Simple-Camera-control-system-
+# Simple-Camera-control-system
 This is a simple camera control system. It can be used as a base design to build complex designs of camera control systems.
 
 ## Language 
