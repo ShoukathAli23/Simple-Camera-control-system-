@@ -1,6 +1,7 @@
 # Simple-Camera-control-system
 This is a simple camera control system. It can be used as a base design to build complex designs of camera control systems.
 
+![]{https://github.com/ShoukathAli23/Simple-Camera-control-system-/blob/master/simple_camera_system.png}
 ## Language 
 VHDL
 
